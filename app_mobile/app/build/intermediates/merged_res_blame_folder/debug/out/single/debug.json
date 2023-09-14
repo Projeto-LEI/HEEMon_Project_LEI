@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "com.webview.myapplication.app-merged_res-18:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.webview.myapplication.app-main-20:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.webview.myapplication.app-merged_res-18:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.webview.myapplication.app-pngs-14:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.webview.myapplication.app-merged_res-18:/layout_activity_main.xml.flat",
+        "source": "com.webview.myapplication.app-main-20:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.webview.myapplication.app-merged_res-18:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.webview.myapplication.app-main-20:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.webview.myapplication.app-merged_res-18:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.webview.myapplication.app-main-20:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.webview.myapplication.app-merged_res-18:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.webview.myapplication.app-main-20:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.webview.myapplication.app-merged_res-18:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.webview.myapplication.app-main-20:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.webview.myapplication.app-merged_res-18:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.webview.myapplication.app-main-20:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.webview.myapplication.app-merged_res-18:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.webview.myapplication.app-main-20:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.webview.myapplication.app-merged_res-18:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.webview.myapplication.app-main-20:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.webview.myapplication.app-merged_res-18:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.webview.myapplication.app-main-20:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.webview.myapplication.app-merged_res-18:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.webview.myapplication.app-main-20:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.webview.myapplication.app-merged_res-18:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.webview.myapplication.app-main-20:/mipmap-xhdpi/ic_launcher_round.png"
+    }
+]

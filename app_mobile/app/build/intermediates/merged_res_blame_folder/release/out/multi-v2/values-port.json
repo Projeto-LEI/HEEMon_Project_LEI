@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.webview.myapplication.app-mergeReleaseResources-16:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Infatl\\.gradle\\caches\\transforms-3\\b4d10aecc3f4047247b06aecce9cdc18\\transformed\\appcompat-1.3.0\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

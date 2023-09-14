@@ -1,0 +1,208 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:2:1-36:12
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Infatl\.gradle\caches\transforms-3\72c012c1f1c3c4ab139cbd4c9ea45337\transformed\material-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Infatl\.gradle\caches\transforms-3\c343692e604bdce3bc81566e07bacb0a\transformed\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\Infatl\.gradle\caches\transforms-3\b4d10aecc3f4047247b06aecce9cdc18\transformed\appcompat-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Infatl\.gradle\caches\transforms-3\50ccc33fbb0bac0164c2984c4867b60b\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\Infatl\.gradle\caches\transforms-3\2fdef6dcde0d9efe0ad642d75391d76f\transformed\fragment-1.3.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\Infatl\.gradle\caches\transforms-3\56b7f5745d922ab105a4cfee3cbbec95\transformed\activity-1.2.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\Infatl\.gradle\caches\transforms-3\53814229a9a089045f6ec1d8bfa17dba\transformed\appcompat-resources-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Infatl\.gradle\caches\transforms-3\cf39ce57b49351ee447f9d2a22e4368f\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Infatl\.gradle\caches\transforms-3\f3e35f94573bf9e824ef1039f0fdc6f4\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Infatl\.gradle\caches\transforms-3\66a9b9bdc87c18fb11b597309d6b6cd2\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Infatl\.gradle\caches\transforms-3\40ad7c28414d568bdcc3dc32a2c4fba7\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Infatl\.gradle\caches\transforms-3\3f376514ddd3cc43dabb086f9161614a\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Infatl\.gradle\caches\transforms-3\4cfdb71a7a96890303046998144402fb\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Infatl\.gradle\caches\transforms-3\1c9d2182645e17962ad5523579bebbc8\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Infatl\.gradle\caches\transforms-3\ead40c03947223f719f3d16cf2d3c5e9\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Infatl\.gradle\caches\transforms-3\410071cbbfd8affa73dbbd4b9b3a06cc\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Infatl\.gradle\caches\transforms-3\bd684e9d5b751dd1c10b448853a7d0f9\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Infatl\.gradle\caches\transforms-3\a767e8af5e776a1df79d00cf497b2651\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] C:\Users\Infatl\.gradle\caches\transforms-3\626f9ed34ab120f395a75464fe034897\transformed\core-1.5.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Infatl\.gradle\caches\transforms-3\a0b2aca7a1c9b673f3c6daf1bf31ec75\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Infatl\.gradle\caches\transforms-3\bcb69a822a025c7e977b54e54a56557d\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Infatl\.gradle\caches\transforms-3\b97e2c97acaead18e38364722dd5538a\transformed\savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Infatl\.gradle\caches\transforms-3\439b5a22f8bc215e430bc9d839a657d0\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Infatl\.gradle\caches\transforms-3\c82a20455b82add60b723441e686304e\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Infatl\.gradle\caches\transforms-3\42512a7caf028e9317b2be6c17950fd7\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Infatl\.gradle\caches\transforms-3\64c2e087164583eab9cad5ac57bc139d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Infatl\.gradle\caches\transforms-3\c12bd1fea7249164457b3ee88652fa4c\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Infatl\.gradle\caches\transforms-3\b1ef9bdcb7ccfbe0b133a0c0d9375a34\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Infatl\.gradle\caches\transforms-3\9596c6c6ce69853d39837368ac6dcf0a\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Infatl\.gradle\caches\transforms-3\6c72948a91a42bcf69a40756ccf91ef7\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Infatl\.gradle\caches\transforms-3\9e19d3888f8fa3402174ebefe8e98afd\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Infatl\.gradle\caches\transforms-3\fce85ea2d6175bbb3c6ccf18c3952881\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Infatl\.gradle\caches\transforms-3\15cb24600e4bc7ba185939456c2315a6\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Infatl\.gradle\caches\transforms-3\daca5c2f225eebf374c4a0a9cf811d2d\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Infatl\.gradle\caches\transforms-3\6ccbef7b9c67cdabdb67508e135cb0a9\transformed\annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+	package
+		INJECTED from C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission-sdk-23#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:4:5-83
+	android:name
+		ADDED from C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:4:29-80
+uses-permission-sdk-23#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:5:5-83
+	android:name
+		ADDED from C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:5:29-80
+uses-permission-sdk-23#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:6:5-86
+	android:name
+		ADDED from C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:6:29-83
+uses-permission-sdk-23#android.permission.INTERNET
+ADDED from C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:7:5-74
+	android:name
+		ADDED from C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:7:29-71
+uses-permission#android.permission.ACCESS_DOWNLOAD_MANAGER
+ADDED from C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:9:5-82
+	android:name
+		ADDED from C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:9:22-79
+uses-permission#android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+ADDED from C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:10:5-88
+	android:name
+		ADDED from C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:10:22-85
+uses-permission-sdk-23#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:12:5-87
+	android:name
+		ADDED from C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:12:29-84
+uses-permission-sdk-23#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:13:5-88
+	android:name
+		ADDED from C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:13:29-85
+application
+ADDED from C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:15:5-33:19
+INJECTED from C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:15:5-33:19
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Infatl\.gradle\caches\transforms-3\72c012c1f1c3c4ab139cbd4c9ea45337\transformed\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Infatl\.gradle\caches\transforms-3\72c012c1f1c3c4ab139cbd4c9ea45337\transformed\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Infatl\.gradle\caches\transforms-3\c343692e604bdce3bc81566e07bacb0a\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Infatl\.gradle\caches\transforms-3\c343692e604bdce3bc81566e07bacb0a\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.5.0] C:\Users\Infatl\.gradle\caches\transforms-3\626f9ed34ab120f395a75464fe034897\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] C:\Users\Infatl\.gradle\caches\transforms-3\626f9ed34ab120f395a75464fe034897\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Infatl\.gradle\caches\transforms-3\64c2e087164583eab9cad5ac57bc139d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Infatl\.gradle\caches\transforms-3\64c2e087164583eab9cad5ac57bc139d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] C:\Users\Infatl\.gradle\caches\transforms-3\626f9ed34ab120f395a75464fe034897\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:22:9-35
+	android:label
+		ADDED from C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:20:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:17:9-41
+	android:roundIcon
+		ADDED from C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:21:9-54
+	android:icon
+		ADDED from C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:19:9-43
+	android:allowBackup
+		ADDED from C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:23:9-51
+	android:usesCleartextTraffic
+		ADDED from C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:18:9-44
+activity#com.webview.myapplication.MainActivity
+ADDED from C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:24:5-32:16
+	android:label
+		ADDED from C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:27:9-41
+	android:configChanges
+		ADDED from C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:26:9-55
+	android:name
+		ADDED from C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:25:9-62
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:28:9-31:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:29:13-65
+	android:name
+		ADDED from C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:29:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:30:13-73
+	android:name
+		ADDED from C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:30:23-70
+uses-sdk
+INJECTED from C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Infatl\.gradle\caches\transforms-3\72c012c1f1c3c4ab139cbd4c9ea45337\transformed\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Infatl\.gradle\caches\transforms-3\72c012c1f1c3c4ab139cbd4c9ea45337\transformed\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Infatl\.gradle\caches\transforms-3\c343692e604bdce3bc81566e07bacb0a\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Infatl\.gradle\caches\transforms-3\c343692e604bdce3bc81566e07bacb0a\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\Infatl\.gradle\caches\transforms-3\b4d10aecc3f4047247b06aecce9cdc18\transformed\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\Infatl\.gradle\caches\transforms-3\b4d10aecc3f4047247b06aecce9cdc18\transformed\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Infatl\.gradle\caches\transforms-3\50ccc33fbb0bac0164c2984c4867b60b\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Infatl\.gradle\caches\transforms-3\50ccc33fbb0bac0164c2984c4867b60b\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\Infatl\.gradle\caches\transforms-3\2fdef6dcde0d9efe0ad642d75391d76f\transformed\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\Infatl\.gradle\caches\transforms-3\2fdef6dcde0d9efe0ad642d75391d76f\transformed\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\Infatl\.gradle\caches\transforms-3\56b7f5745d922ab105a4cfee3cbbec95\transformed\activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\Infatl\.gradle\caches\transforms-3\56b7f5745d922ab105a4cfee3cbbec95\transformed\activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\Infatl\.gradle\caches\transforms-3\53814229a9a089045f6ec1d8bfa17dba\transformed\appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\Infatl\.gradle\caches\transforms-3\53814229a9a089045f6ec1d8bfa17dba\transformed\appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Infatl\.gradle\caches\transforms-3\cf39ce57b49351ee447f9d2a22e4368f\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Infatl\.gradle\caches\transforms-3\cf39ce57b49351ee447f9d2a22e4368f\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Infatl\.gradle\caches\transforms-3\f3e35f94573bf9e824ef1039f0fdc6f4\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Infatl\.gradle\caches\transforms-3\f3e35f94573bf9e824ef1039f0fdc6f4\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Infatl\.gradle\caches\transforms-3\66a9b9bdc87c18fb11b597309d6b6cd2\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Infatl\.gradle\caches\transforms-3\66a9b9bdc87c18fb11b597309d6b6cd2\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Infatl\.gradle\caches\transforms-3\40ad7c28414d568bdcc3dc32a2c4fba7\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Infatl\.gradle\caches\transforms-3\40ad7c28414d568bdcc3dc32a2c4fba7\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Infatl\.gradle\caches\transforms-3\3f376514ddd3cc43dabb086f9161614a\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Infatl\.gradle\caches\transforms-3\3f376514ddd3cc43dabb086f9161614a\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Infatl\.gradle\caches\transforms-3\4cfdb71a7a96890303046998144402fb\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Infatl\.gradle\caches\transforms-3\4cfdb71a7a96890303046998144402fb\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Infatl\.gradle\caches\transforms-3\1c9d2182645e17962ad5523579bebbc8\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Infatl\.gradle\caches\transforms-3\1c9d2182645e17962ad5523579bebbc8\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Infatl\.gradle\caches\transforms-3\ead40c03947223f719f3d16cf2d3c5e9\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Infatl\.gradle\caches\transforms-3\ead40c03947223f719f3d16cf2d3c5e9\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Infatl\.gradle\caches\transforms-3\410071cbbfd8affa73dbbd4b9b3a06cc\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Infatl\.gradle\caches\transforms-3\410071cbbfd8affa73dbbd4b9b3a06cc\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Infatl\.gradle\caches\transforms-3\bd684e9d5b751dd1c10b448853a7d0f9\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Infatl\.gradle\caches\transforms-3\bd684e9d5b751dd1c10b448853a7d0f9\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Infatl\.gradle\caches\transforms-3\a767e8af5e776a1df79d00cf497b2651\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Infatl\.gradle\caches\transforms-3\a767e8af5e776a1df79d00cf497b2651\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] C:\Users\Infatl\.gradle\caches\transforms-3\626f9ed34ab120f395a75464fe034897\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] C:\Users\Infatl\.gradle\caches\transforms-3\626f9ed34ab120f395a75464fe034897\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Infatl\.gradle\caches\transforms-3\a0b2aca7a1c9b673f3c6daf1bf31ec75\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Infatl\.gradle\caches\transforms-3\a0b2aca7a1c9b673f3c6daf1bf31ec75\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Infatl\.gradle\caches\transforms-3\bcb69a822a025c7e977b54e54a56557d\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Infatl\.gradle\caches\transforms-3\bcb69a822a025c7e977b54e54a56557d\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Infatl\.gradle\caches\transforms-3\b97e2c97acaead18e38364722dd5538a\transformed\savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Infatl\.gradle\caches\transforms-3\b97e2c97acaead18e38364722dd5538a\transformed\savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Infatl\.gradle\caches\transforms-3\439b5a22f8bc215e430bc9d839a657d0\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Infatl\.gradle\caches\transforms-3\439b5a22f8bc215e430bc9d839a657d0\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Infatl\.gradle\caches\transforms-3\c82a20455b82add60b723441e686304e\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Infatl\.gradle\caches\transforms-3\c82a20455b82add60b723441e686304e\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Infatl\.gradle\caches\transforms-3\42512a7caf028e9317b2be6c17950fd7\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Infatl\.gradle\caches\transforms-3\42512a7caf028e9317b2be6c17950fd7\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Infatl\.gradle\caches\transforms-3\64c2e087164583eab9cad5ac57bc139d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Infatl\.gradle\caches\transforms-3\64c2e087164583eab9cad5ac57bc139d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Infatl\.gradle\caches\transforms-3\c12bd1fea7249164457b3ee88652fa4c\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Infatl\.gradle\caches\transforms-3\c12bd1fea7249164457b3ee88652fa4c\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Infatl\.gradle\caches\transforms-3\b1ef9bdcb7ccfbe0b133a0c0d9375a34\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Infatl\.gradle\caches\transforms-3\b1ef9bdcb7ccfbe0b133a0c0d9375a34\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Infatl\.gradle\caches\transforms-3\9596c6c6ce69853d39837368ac6dcf0a\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Infatl\.gradle\caches\transforms-3\9596c6c6ce69853d39837368ac6dcf0a\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Infatl\.gradle\caches\transforms-3\6c72948a91a42bcf69a40756ccf91ef7\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Infatl\.gradle\caches\transforms-3\6c72948a91a42bcf69a40756ccf91ef7\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Infatl\.gradle\caches\transforms-3\9e19d3888f8fa3402174ebefe8e98afd\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Infatl\.gradle\caches\transforms-3\9e19d3888f8fa3402174ebefe8e98afd\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Infatl\.gradle\caches\transforms-3\fce85ea2d6175bbb3c6ccf18c3952881\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Infatl\.gradle\caches\transforms-3\fce85ea2d6175bbb3c6ccf18c3952881\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Infatl\.gradle\caches\transforms-3\15cb24600e4bc7ba185939456c2315a6\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Infatl\.gradle\caches\transforms-3\15cb24600e4bc7ba185939456c2315a6\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Infatl\.gradle\caches\transforms-3\daca5c2f225eebf374c4a0a9cf811d2d\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Infatl\.gradle\caches\transforms-3\daca5c2f225eebf374c4a0a9cf811d2d\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Infatl\.gradle\caches\transforms-3\6ccbef7b9c67cdabdb67508e135cb0a9\transformed\annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Infatl\.gradle\caches\transforms-3\6ccbef7b9c67cdabdb67508e135cb0a9\transformed\annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+	android:targetSdkVersion
+		INJECTED from C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml

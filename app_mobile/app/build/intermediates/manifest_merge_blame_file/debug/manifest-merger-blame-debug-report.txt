@@ -1,0 +1,82 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.webview.myapplication"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="30" />
+10
+11    <uses-permission-sdk-23 android:name="android.permission.ACCESS_WIFI_STATE" />
+11-->C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:4:5-83
+11-->C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:4:29-80
+12    <uses-permission-sdk-23 android:name="android.permission.CHANGE_WIFI_STATE" />
+12-->C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:5:5-83
+12-->C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:5:29-80
+13    <uses-permission-sdk-23 android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:6:5-86
+13-->C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:6:29-83
+14    <uses-permission-sdk-23 android:name="android.permission.INTERNET" />
+14-->C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:7:5-74
+14-->C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:7:29-71
+15
+16    <uses-permission android:name="android.permission.ACCESS_DOWNLOAD_MANAGER" />
+16-->C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:9:5-82
+16-->C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:9:22-79
+17    <uses-permission android:name="android.permission.DOWNLOAD_WITHOUT_NOTIFICATION" />
+17-->C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:10:5-88
+17-->C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:10:22-85
+18
+19    <uses-permission-sdk-23 android:name="android.permission.READ_EXTERNAL_STORAGE" />
+19-->C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:12:5-87
+19-->C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:12:29-84
+20    <uses-permission-sdk-23 android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+20-->C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:13:5-88
+20-->C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:13:29-85
+21
+22    <application
+22-->C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:15:5-33:19
+23        android:allowBackup="true"
+23-->C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:16:9-35
+24        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+24-->[androidx.core:core:1.5.0] C:\Users\Infatl\.gradle\caches\transforms-3\626f9ed34ab120f395a75464fe034897\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+25        android:debuggable="true"
+26        android:extractNativeLibs="true"
+27        android:fullBackupContent="true"
+27-->C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:17:9-41
+28        android:icon="@mipmap/ic_launcher"
+28-->C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:19:9-43
+29        android:label="@string/app_name"
+29-->C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:20:9-41
+30        android:roundIcon="@mipmap/ic_launcher_round"
+30-->C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:21:9-54
+31        android:supportsRtl="true"
+31-->C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:22:9-35
+32        android:testOnly="true"
+33        android:theme="@style/Theme.MyApplication"
+33-->C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:23:9-51
+34        android:usesCleartextTraffic="true" >
+34-->C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:18:9-44
+35        <activity
+35-->C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:24:5-32:16
+36            android:name="com.webview.myapplication.MainActivity"
+36-->C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:25:9-62
+37            android:configChanges="orientation|screenSize"
+37-->C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:26:9-55
+38            android:label="@string/app_name" >
+38-->C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:27:9-41
+39            <intent-filter>
+39-->C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:28:9-31:25
+40                <action android:name="android.intent.action.MAIN" />
+40-->C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:29:13-65
+40-->C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:29:21-62
+41
+42                <category android:name="android.intent.category.LAUNCHER" />
+42-->C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:30:13-73
+42-->C:\Users\Infatl\AndroidStudioProjects\HEEMON\app\src\main\AndroidManifest.xml:30:23-70
+43            </intent-filter>
+44        </activity>
+45    </application>
+46
+47</manifest>
